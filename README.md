@@ -1,1 +1,1 @@
-# 1STOP.AI-Project-3
+# 1STOP.AI-Project-3 : FAKE NEWS DETECTION
